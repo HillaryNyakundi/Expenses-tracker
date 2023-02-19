@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node src/server.js",
     "watch": "nodemon src/server.js"
-
   },
   "keywords": [
     "MERN"
@@ -14,7 +13,8 @@
   "author": "Nyakundi",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
